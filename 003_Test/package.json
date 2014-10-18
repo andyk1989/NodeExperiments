@@ -1,0 +1,18 @@
+{
+  "name": "003_Test",
+  "version": "0.1.0",
+  "description": "003 Test",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.9.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Andy Kong",
+  "license": "MIT"
+}
